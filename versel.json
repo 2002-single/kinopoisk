@@ -1,0 +1,8 @@
+{
+    "revrites":{
+        {
+            "source":"/(.*)",
+            "description":"/"
+        }
+    }
+}
